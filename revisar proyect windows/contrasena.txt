@@ -1,0 +1,6 @@
+
+configuracion de usuarios paar entrar
+
+ usuario:admin 
+contrasena: password
+encrictada: 5f4dcc3b5aa765d61d8327deb882cf99
